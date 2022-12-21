@@ -1,4 +1,8 @@
-### Hi there 👋
+### Salut à toi 👋  
+>Je suis LANKOANDE Mahomed  
+>>apprenant en Informatique (***SIR***)  
+>>actuellement en formation ***FULL STACK*** avec ***Develloper Institut***  
+
 
 <!--
 **LankMHD/LankMHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
